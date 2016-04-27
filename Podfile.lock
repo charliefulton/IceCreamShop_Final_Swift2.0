@@ -1,20 +1,16 @@
 PODS:
   - Alamofire (2.0.2)
   - MBProgressHUD (0.9.2)
-  - RWPickFlavor (0.1.0):
+  - RWPickFlavorCRF (0.1.1):
     - Alamofire (~> 2.0)
     - MBProgressHUD (~> 0.9.0)
 
 DEPENDENCIES:
-  - RWPickFlavor (from `~/Documents/Libraries/RWPickFlavor`)
-
-EXTERNAL SOURCES:
-  RWPickFlavor:
-    :path: "~/Documents/Libraries/RWPickFlavor"
+  - RWPickFlavorCRF
 
 SPEC CHECKSUMS:
   Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
   MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
-  RWPickFlavor: da504410433bffae8cba551a33ee07dbc1f4ff7f
+  RWPickFlavorCRF: 170a926ce5c36115cb42cf09ec2fd699de16435d
 
 COCOAPODS: 0.39.0
