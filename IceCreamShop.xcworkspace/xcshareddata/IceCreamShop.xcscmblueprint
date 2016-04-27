@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "047EB1A06C52F87003188BF90A69CF5D4BF6EB38",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "047EB1A06C52F87003188BF90A69CF5D4BF6EB38" : 0,
+    "00C8C27A364DAC71C70AA928674271E257F964FE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39F07D55-5958-4603-AEC3-3F4BED0AD023",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "047EB1A06C52F87003188BF90A69CF5D4BF6EB38" : "IceCreamShop_Final_Swift2.0\/",
+    "00C8C27A364DAC71C70AA928674271E257F964FE" : "Documents\/Libraries\/RWPickFlavor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IceCreamShop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IceCreamShop.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:charliefulton\/RWPickFlavor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00C8C27A364DAC71C70AA928674271E257F964FE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:charliefulton\/IceCreamShop_Final_Swift2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "047EB1A06C52F87003188BF90A69CF5D4BF6EB38"
+    }
+  ]
+}
